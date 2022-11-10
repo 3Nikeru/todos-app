@@ -36,6 +36,10 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.52.1"
+    "envify": "^4.1.0",
+    "sass": "^1.52.1",
+    "terser": "^5.15.1",
+    "terser-brunch": "^4.1.0",
+    "uglifyify": "^5.0.2"
   }
 }
